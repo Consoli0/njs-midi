@@ -1,0 +1,12 @@
+config.json
+.git/
+.gitignore
+node_modules/
+casio_lk-230/
+launchpad/
+launchpad/pro/launchos.js
+launchpad/pro/tetris.js
+launchpad/pro/tictactoe.js
+launchpad/pro/wasd-basic.js
+index.html
+electron-test.js
